@@ -22,7 +22,6 @@ To mitigate that bug, place the script at the root of wordpress and execute it (
 
 == Changelog ==
 
-
 = Inherited from Original OneLogin SAML SSO Plugin =
 = 2.8.0 =
 * Update php-saml to 2.14.0
