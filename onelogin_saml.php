@@ -4,7 +4,7 @@ Plugin Name: OpenSocial SSO
 Plugin URI: https://github.com/OpenSocialCSN/OpenSocial-SSO
 Description: Give users secure one-click access to WordPress with OpenSocial. 
 Author: LabLynx, Inc.
-Version: 1.0.0
+Version: 0.1.0
 Author URI: http://www.onelogin.com
 
 Fork of https://github.com/onelogin/wordpress-saml v2.8.0
